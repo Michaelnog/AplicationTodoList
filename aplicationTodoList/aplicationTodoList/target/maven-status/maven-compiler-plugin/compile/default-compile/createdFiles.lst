@@ -1,0 +1,12 @@
+com\michael\aplicationTodoList\controller\UserController.class
+com\michael\aplicationTodoList\configuration\configurationDataBase.class
+com\michael\aplicationTodoList\errors\ExceptionsHandlerController.class
+com\michael\aplicationTodoList\repository\TaskRepository.class
+com\michael\aplicationTodoList\models\TaskModel.class
+com\michael\aplicationTodoList\models\UserModel.class
+com\michael\aplicationTodoList\repository\UserRepository.class
+com\michael\aplicationTodoList\utils\Utils.class
+com\michael\aplicationTodoList\configuration\configurationDataBase$configurantionDataBase.class
+com\michael\aplicationTodoList\AplicationTodoListApplication.class
+com\michael\aplicationTodoList\filter\FilterTaskAuth.class
+com\michael\aplicationTodoList\controller\TaskController.class
